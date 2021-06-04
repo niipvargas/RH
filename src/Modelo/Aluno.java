@@ -7,7 +7,6 @@ public class  Aluno extends Pessoa {
         this.matricula = matricula;
     }
  
-    
     public String matricula;
     
 }

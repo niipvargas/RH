@@ -9,7 +9,6 @@ public class Professor extends Funcionario {
         this.departamento = departamento;
     }
   
-    
     public String departamento;
     
 }

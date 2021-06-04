@@ -7,7 +7,6 @@ public class Coordenador extends Funcionario {
         this.curso = curso;
     }
 
-   
     public String curso;
     
 }

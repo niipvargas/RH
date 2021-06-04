@@ -10,7 +10,6 @@ public class Funcionario extends Pessoa {
         this.salario = salario;
     }
     
-    
     public String codigo;
     public double salario;
            
